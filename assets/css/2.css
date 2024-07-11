@@ -1,0 +1,2 @@
+body { color: red; }
+p:nth-child(2) { color: blueviolet; }
